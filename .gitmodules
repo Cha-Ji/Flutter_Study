@@ -1,0 +1,3 @@
+[submodule "xylophone-flutter"]
+	path = xylophone-flutter
+	url = https://github.com/londonappbrewery/xylophone-flutter.git
