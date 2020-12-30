@@ -1,3 +1,6 @@
 [submodule "xylophone-flutter"]
 	path = xylophone-flutter
 	url = https://github.com/londonappbrewery/xylophone-flutter.git
+[submodule "quizzler-flutter"]
+	path = quizzler-flutter
+	url = https://github.com/londonappbrewery/quizzler-flutter.git
