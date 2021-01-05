@@ -4,3 +4,6 @@
 [submodule "quizzler-flutter"]
 	path = quizzler-flutter
 	url = https://github.com/londonappbrewery/quizzler-flutter.git
+[submodule "bmi-calculator-flutter"]
+	path = bmi-calculator-flutter
+	url = https://github.com/londonappbrewery/bmi-calculator-flutter.git
