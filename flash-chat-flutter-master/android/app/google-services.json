@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "371166309327",
+    "project_id": "flash-chat-bd9b4",
+    "storage_bucket": "flash-chat-bd9b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:371166309327:android:83df6f9322e293a4bac0ba",
+        "android_client_info": {
+          "package_name": "co.chaji.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "371166309327-qlpsurjmogqooralq4u5i2mpci13c1cr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxhLFJOGMIi5Eze4WUB0SGsszCShcV4L8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "371166309327-qlpsurjmogqooralq4u5i2mpci13c1cr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
